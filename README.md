@@ -12,6 +12,7 @@ A Android app to search book in Douban.
 
 ## TO DO
 > 还有一些功能没有做
+
 1. 对网络状态的友好提示
 2. 书籍详情页不够美观，需重写设计
 3. 增添分享功能
