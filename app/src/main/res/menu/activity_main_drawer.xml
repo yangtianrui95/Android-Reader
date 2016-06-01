@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_nav_book"
+            android:icon="@drawable/book"
+            android:title="书籍信息" />
+        <item
+            android:id="@+id/id_nav_blog"
+            android:icon="@drawable/blog"
+            android:title="作者博客" />
+        <item
+            android:id="@+id/id_nav_explain"
+            android:icon="@drawable/explain"
+            android:title="使用说明" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/id_nav_github"
+                android:icon="@drawable/github"
+                android:title="github" />
+        </menu>
+    </item>
+
+</menu>

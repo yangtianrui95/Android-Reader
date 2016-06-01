@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="transition_book_img">transition_book_img</string>
+    <string name="explain_app"> 项目介绍:\n\n
+        使用豆瓣API实现书籍查询功能\n\n
+        使用框架:\n\n
+        Glide,Gson,okhttp,Agera等\n\n
+        欢迎学习交流:-)</string>
+</resources>

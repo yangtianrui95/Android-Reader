@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="content-1.0.0-rc2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/content/1.0.0-rc2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.agera/content/1.0.0-rc2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.agera/content/1.0.0-rc2/953b8f7f04345cc205ba5dcb710cb2296a95663f/content-1.0.0-rc2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
