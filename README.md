@@ -6,7 +6,7 @@ A Android app to search book in Douban.
 ![Reader介绍](http://img.blog.csdn.net/20160601143703010)
 
 ##使用技术:
-1. Metrial Design设计
+1. Material Design设计
 2. okhttp，gson，agera处理网络请求
 3. glide加载图片
 
